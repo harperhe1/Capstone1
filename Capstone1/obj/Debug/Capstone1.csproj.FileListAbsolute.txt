@@ -1,0 +1,14 @@
+C:\Users\Heather\Desktop\Capstone1\Capstone1\bin\Debug\Capstone1.exe.config
+C:\Users\Heather\Desktop\Capstone1\Capstone1\bin\Debug\Capstone1.exe
+C:\Users\Heather\Desktop\Capstone1\Capstone1\bin\Debug\Capstone1.pdb
+C:\Users\Heather\Desktop\Capstone1\Capstone1\obj\Debug\Capstone1.csprojAssemblyReference.cache
+C:\Users\Heather\Desktop\Capstone1\Capstone1\obj\Debug\Capstone1.csproj.CoreCompileInputs.cache
+C:\Users\Heather\Desktop\Capstone1\Capstone1\obj\Debug\Capstone1.exe
+C:\Users\Heather\Desktop\Capstone1\Capstone1\obj\Debug\Capstone1.pdb
+C:\Users\Heather\Desktop\Grand Circus\Capstone1\Capstone1\obj\Debug\Capstone1.csprojAssemblyReference.cache
+C:\Users\Heather\Desktop\Grand Circus\Capstone1\Capstone1\obj\Debug\Capstone1.csproj.CoreCompileInputs.cache
+C:\Users\Heather\Desktop\Grand Circus\Capstone1\Capstone1\obj\Debug\Capstone1.exe
+C:\Users\Heather\Desktop\Grand Circus\Capstone1\Capstone1\obj\Debug\Capstone1.pdb
+C:\Users\Heather\Desktop\Grand Circus\Capstone1\Capstone1\bin\Debug\Capstone1.exe.config
+C:\Users\Heather\Desktop\Grand Circus\Capstone1\Capstone1\bin\Debug\Capstone1.exe
+C:\Users\Heather\Desktop\Grand Circus\Capstone1\Capstone1\bin\Debug\Capstone1.pdb
